@@ -1,4 +1,4 @@
-# 🌤️ weather-data-pipeline
+# 🌤️ Weather-Data-Pipeline
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
